@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Full-stack dev from Oslo, Norway. Building [pilsjakt.no](https://www.pilsjakt.no) for fun and 0 profits.
+
 <!--
 **hslaa/hslaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
